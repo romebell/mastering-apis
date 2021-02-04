@@ -68,3 +68,7 @@ const fetch = require('node-fetch'); // only works in NODE
 
 What happens when you try to use `require` on the browser
 ![error using require](require_error.png)
+
+### Resources
+
+- [https://gomakethings.com/getting-html-with-fetch-in-vanilla-js/](https://gomakethings.com/getting-html-with-fetch-in-vanilla-js/)
